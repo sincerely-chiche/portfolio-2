@@ -28,12 +28,10 @@ const delegatedProps = computed(() => {
           'h-full w-2.5 border-l border-l-transparent p-px',
         orientation === 'horizontal' &&
           'h-2.5 flex-col border-t border-t-transparent p-px',
-        props.class,
+        props.class
       )
     "
   >
-    <ScrollAreaThumb
-      class="relative flex-1 rounded-full bg-slate-200 dark:bg-slate-800"
-    />
+    <ScrollAreaThumb class="relative flex-1 rounded-full bg-accent" />
   </ScrollAreaScrollbar>
 </template>
