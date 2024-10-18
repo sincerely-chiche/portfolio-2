@@ -2,7 +2,7 @@
   <div class="h-full">
     <div class="container mx-auto h-full">
       <div
-        class="flex flex-col xl:flex-row items-center justify-between xl:pt-8 xl:pb-24"
+        class="flex flex-col xl:flex-row items-center justify-between xl:pt-0 xl:pb-8"
       >
         <div class="text-center xl:text-left order-2 xl:order-none">
           <span class="text-xl">Software Developer</span>
