@@ -8,7 +8,7 @@
           <span class="text-xl">Software Developer</span>
           <h1 class="h1 mb-6">
             Hello, I'm<br />
-            <span class="text-accent">Immanuel Dickson C.</span>
+            <span class="text-accent">Immanuel Dickson</span>
           </h1>
           <p class="max-w-[500px] mb-9 text-white/80">
             As a passionate software developer, I specialize in crafting
